@@ -1,0 +1,27 @@
+C:\Users\untiy\Desktop\Ace Stream File Launcher\bin\Debug\Ace Stream File Launcher.exe.config
+C:\Users\untiy\Desktop\Ace Stream File Launcher\bin\Debug\Ace Stream File Launcher.exe
+C:\Users\untiy\Desktop\Ace Stream File Launcher\bin\Debug\Ace Stream File Launcher.pdb
+C:\Users\untiy\Desktop\Ace Stream File Launcher\obj\Debug\Ace Stream File Launcher.csprojAssemblyReference.cache
+C:\Users\untiy\Desktop\Ace Stream File Launcher\obj\Debug\Ace_Stream_File_Launcher.Properties.Resources.resources
+C:\Users\untiy\Desktop\Ace Stream File Launcher\obj\Debug\Ace Stream File Launcher.csproj.GenerateResource.cache
+C:\Users\untiy\Desktop\Ace Stream File Launcher\obj\Debug\Ace Stream File Launcher.exe
+C:\Users\untiy\Desktop\Ace Stream File Launcher\obj\Debug\Ace Stream File Launcher.pdb
+C:\Users\untiy\Desktop\Ace Stream File Launcher\obj\Debug\Ace_Stream_File_Launcher.Form1.resources
+f:\Projects\Ace Stream File Launcher(form)\bin\Debug\Ace Stream File Launcher.exe.config
+f:\Projects\Ace Stream File Launcher(form)\bin\Debug\Ace Stream File Launcher.exe
+f:\Projects\Ace Stream File Launcher(form)\bin\Debug\Ace Stream File Launcher.pdb
+f:\Projects\Ace Stream File Launcher(form)\obj\Debug\Ace Stream File Launcher.csprojAssemblyReference.cache
+f:\Projects\Ace Stream File Launcher(form)\obj\Debug\Ace_Stream_File_Launcher.Form1.resources
+f:\Projects\Ace Stream File Launcher(form)\obj\Debug\Ace_Stream_File_Launcher.Properties.Resources.resources
+f:\Projects\Ace Stream File Launcher(form)\obj\Debug\Ace Stream File Launcher.csproj.GenerateResource.cache
+f:\Projects\Ace Stream File Launcher(form)\obj\Debug\Ace Stream File Launcher.exe
+f:\Projects\Ace Stream File Launcher(form)\obj\Debug\Ace Stream File Launcher.pdb
+F:\Projects\Ace Stream File Launcher(form) — копия\bin\Debug\Ace Stream File Launcher.exe.config
+F:\Projects\Ace Stream File Launcher(form) — копия\bin\Debug\Ace Stream File Launcher.exe
+F:\Projects\Ace Stream File Launcher(form) — копия\bin\Debug\Ace Stream File Launcher.pdb
+F:\Projects\Ace Stream File Launcher(form) — копия\obj\Debug\Ace Stream File Launcher.csprojAssemblyReference.cache
+F:\Projects\Ace Stream File Launcher(form) — копия\obj\Debug\Ace_Stream_File_Launcher.Properties.Resources.resources
+F:\Projects\Ace Stream File Launcher(form) — копия\obj\Debug\Ace Stream File Launcher.csproj.GenerateResource.cache
+F:\Projects\Ace Stream File Launcher(form) — копия\obj\Debug\Ace Stream File Launcher.exe
+F:\Projects\Ace Stream File Launcher(form) — копия\obj\Debug\Ace Stream File Launcher.pdb
+F:\Projects\Ace Stream File Launcher(form) — копия\obj\Debug\Ace_Stream_File_Launcher.Form1.resources
