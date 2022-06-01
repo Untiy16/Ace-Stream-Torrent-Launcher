@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -11,7 +11,7 @@ using System.Windows.Forms;
 using System.IO;
 using System.Net;
 using System.Collections.Specialized;
-
+using System.Text.RegularExpressions;
 
 namespace Ace_Stream_File_Launcher
 {
@@ -19,7 +19,8 @@ namespace Ace_Stream_File_Launcher
     {
         public string parseMagnet(string magnet)
         {
-            magnet = magnet.Replace("magnet:?xt=urn:btih:", "");
+            magnet = Regex.Replace(magnet, @"(.*?magnet:\?xt=urn:btih:)", "", RegexOptions.IgnoreCase);
+            //magnet = magnet.Replace("magnet:?xt=urn:btih:", "");
             int cutIndex = magnet.IndexOf("&dn=");
             if (cutIndex > 0)
                 magnet = magnet.Substring(0, cutIndex);
@@ -29,6 +30,7 @@ namespace Ace_Stream_File_Launcher
         public string parseLink(string url)
         {
             url = url.Trim('"');
+            url = Regex.Replace(url, @"(.+?:)(?=.+:\/\/)", "", RegexOptions.IgnoreCase);
 
             bool isUrl = Uri.TryCreate(url, UriKind.Absolute, out Uri uriResult)
                 && (uriResult.Scheme == Uri.UriSchemeHttp || uriResult.Scheme == Uri.UriSchemeHttps);
